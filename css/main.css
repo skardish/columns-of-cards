@@ -15,9 +15,26 @@ h2 {
 
 .card-one {
   background-color: #f2f2f2;
+  float: left;
+  width: 25%;
+  padding: 1.5rem;
+  border-left: 1px solid #333;
 }
 
 img {
-  float: left;
-  width: 25%;
+  width: 100px;
+  display: block;
+  margin: 0 auto 1.5rem;
+}
+
+.card-two {
+  background-color: #e2e2e2;
+}
+
+.card-three {
+  background-color: #ccc;
+}
+
+.card-four {
+  background-color: #aaa;
 }
