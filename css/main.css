@@ -9,6 +9,15 @@ html {
 }
 
 h2 {
-text-align: center;
-font-size: 2rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.card-one {
+  background-color: #f2f2f2;
+}
+
+img {
+  float: left;
+  width: 25%;
 }
