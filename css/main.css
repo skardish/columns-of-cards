@@ -1,8 +1,14 @@
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+h2 {
+text-align: center;
+font-size: 2rem;
 }
