@@ -39,16 +39,6 @@ img {
 
 cite {
   font-style: italic;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  margin-right: 1.5rem;
-  margin-left: 1.5rem;
-}
-
-p {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  margin-right: 1.5rem;
   margin-left: 1.5rem;
 }
 
@@ -61,7 +51,6 @@ p {
   padding-right: 1.5rem;
   padding-left: 1.5rem;
   border-left: 1px solid #333;
-  margin-bottom: 1rem;
 }
 
 .card-three {
@@ -73,7 +62,6 @@ p {
   padding-right: 1.5rem;
   padding-left: 1.5rem;
   border-left: 1px solid #333;
-  margin: 0 0 1.5rem;
 }
 
 .card-four {
@@ -85,7 +73,6 @@ p {
   padding-right: 1.5rem;
   padding-left: 1.5rem;
   border-left: 1px solid #333;
-  border-right: 1px solid #333;
 }
 
 .btn {
