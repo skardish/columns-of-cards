@@ -18,7 +18,7 @@ h2 {
 }
 
 .card-one {
-  background-color: #f2f2f2;
+  background-color: #e2e2e2;
   float: left;
   width: 25%;
   padding: 1.5rem;
@@ -36,14 +36,6 @@ cite {
 }
 
 .card-two {
-  background-color: #e2e2e2;
-  float: left;
-  width: 25%;
-  padding: 1.5rem;
-  border-left: 1px solid #333;
-}
-
-.card-three {
   background-color: #ccc;
   float: left;
   width: 25%;
@@ -51,8 +43,16 @@ cite {
   border-left: 1px solid #333;
 }
 
-.card-four {
+.card-three {
   background-color: #aaa;
+  float: left;
+  width: 25%;
+  padding: 1.5rem;
+  border-left: 1px solid #333;
+}
+
+.card-four {
+  background-color: #999;
   float: left;
   width: 25%;
   padding: 1.5rem;
@@ -68,7 +68,7 @@ cite {
 }
 
 .btn:hover {
-
+  background-color: #000;
 }
 
 .btn-small {
