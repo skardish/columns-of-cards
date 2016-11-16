@@ -9,7 +9,7 @@ html {
 }
 
 body {
-margin: 0;
+  margin: 0;
 }
 
 h2 {
@@ -60,11 +60,11 @@ cite {
 }
 
 .btn {
-background-color: #333;
-color: white;
-text-decoration: none;
-padding: .75rem;
-border-radius: 8px;
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+  padding: .75rem;
+  border-radius: 8px;
 }
 
 .btn:hover {
